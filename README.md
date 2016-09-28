@@ -1,5 +1,7 @@
 # Office-Add-in-Bing-Search
 
+>**Note:**  We will be removing this sample from the site on November 30, 2016. If you’d like to keep a copy of this sample for your own reference, please download or clone the repo.
+
 A task pane add-in that allows you to search Bing.
 
 ## Prerequisites
